@@ -92,7 +92,7 @@ body {
 
 .button:focus {
     color: var(--white-background-color);
-    background-color: var(var(--pressed-state-color));
+    background-color: var(--pressed-state-color);
 }
 
 .title {

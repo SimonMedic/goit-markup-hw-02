@@ -33,7 +33,7 @@ body {
 }
 
 .span {
-    color: var(--dark-color);
+    color: var(--light-color);
 }
 
 .list {

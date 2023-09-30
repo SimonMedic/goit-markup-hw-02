@@ -33,7 +33,7 @@ body {
 }
 
 .span {
-    color: var(--light-color);
+    color: var(--dark-color);
 }
 
 .list {
@@ -111,6 +111,8 @@ body {
 }
 .footer {
     background-color: var(--dark-color);
-
+}
+.span-footer {
+    color: var(--light-color);
 }
 

@@ -165,3 +165,14 @@ body {
         letter-spacing: 0.02em;
         color: var(--light-color);
 }
+.team {
+    background-color: var(--light-color);
+}
+.team-members {
+    font-size: 36px;
+    line-height: 1,11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--dark-color);
+}

@@ -179,3 +179,8 @@ body {
 .team-photo {
     background-color: var(--white-background-color);
 }
+.function {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}

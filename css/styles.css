@@ -73,6 +73,9 @@ body {
 .mail:visited {
     color: var(--pressed-state-color);
 }
+.mail:focus {
+    color: var(--pressed-state-color);
+}
 
 .button {
     font-family: "Roboto", sans-serif;

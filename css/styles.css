@@ -139,8 +139,8 @@ body {
     cursor: pointer;
 }
 .button-solution:hover {
-    color: var(--pressed-state-color);
+    background-color: var(--pressed-state-color);
 }
 .button-solution:focus {
-    color: var(--pressed-state-color);
+    background-color: var(--pressed-state-color);
 }

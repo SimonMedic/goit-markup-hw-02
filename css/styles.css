@@ -176,6 +176,3 @@ body {
     text-transform: capitalize;
     color: var(--dark-color);
 }
-.team-photo {
-    background-color: var(--white-background-color);
-}

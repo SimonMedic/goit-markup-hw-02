@@ -186,5 +186,7 @@ body {
 }
 .conteiner {
     width: 1158px;
-    
+    }
+.img {
+    display: block;
 }

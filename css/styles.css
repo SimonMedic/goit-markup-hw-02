@@ -189,11 +189,11 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.conteiner {
-    width: 1158px;
-    padding: 0 15px;
-    margin: 0 auto;
-    }
 .header {
     border-bottom: 1px solid var(--accent-color);
 } 
+.container {
+    width: 1158px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
